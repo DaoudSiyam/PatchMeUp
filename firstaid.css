@@ -1,0 +1,48 @@
+.selection{
+    background-color: rgb(246, 246, 246);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65.8%;
+    margin-top: 200px;
+    padding-top: 25px;
+    padding-bottom: 21px;
+    border-radius: 50px;
+    border: 3px;
+    border-style: solid;
+}
+
+.bandage{
+    width: 300px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-bottom: -60px;
+    border-right: 2px solid;
+    border-color: black;
+}
+
+.hover :hover{
+    background-color: rgb(238, 175, 253);
+}
+
+.ambulance{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 300px;
+    border-left: 2px solid;
+    border-color: black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-bottom: -57px;
+}
+
+span {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+}
