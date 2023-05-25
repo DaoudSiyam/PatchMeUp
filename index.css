@@ -1,5 +1,5 @@
 .gradient {
-    background: linear-gradient(to right, rgb(179, 53, 211), rgb(227, 113, 255), rgb(216, 69, 253), rgb(158, 157, 157));
+    background: linear-gradient(to right, rgb(220, 65, 65), rgb(231, 94, 94), rgb(188, 34, 34), rgb(253, 121, 121));
     background-size: 200% auto;
     animation: gradientAnimation 20s ease-in-out infinite;
   }
@@ -44,7 +44,7 @@ svg{
 }
 
 .hover-grey :hover{
-  background-color: rgb(238, 175, 253);
+  background-color: rgb(255, 123, 123);
 }
 
 .info{
