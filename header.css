@@ -1,0 +1,14 @@
+.header{
+    margin-bottom: 50px;
+}
+
+.inner-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pulsing-heart{
+    width: 200px;
+}
+
